@@ -1,0 +1,45 @@
+let myResume={
+    "basics": {
+      "name": "KARTHIK S",
+      "email": "karthiksanthamoorthy713@gamil.com",
+      "phone": 8220640299,
+      "degree": "B.com,MBA",
+      "location": {
+        "address": "15/23A S.V.Koil St, Kanchipuram ",
+        "postalCode": 631501,
+        "city": "Kanchipuram",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          "github":"https://github.com/Karthiksanthamoorthy"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Nithya Ramesh Association",
+        "position": "Auditing Training",
+        "startDate": "2019-10-14",
+        "endDate": "2021-08-12",
+        "summary": "I'm handled various audit like Statutory audit and gained lots of experience",
+      },
+    ],
+    "education": [
+      {
+        "institution": "A.M.Jain College",
+        "department": "General",
+        "studyType": "fulltime",
+        "batch start year": 2016,
+        "batch end year": 2019,
+        "gpa": 7.9,
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,Enlish,Telugu",
+      }
+    ]
+  }
+  console.log(myResume);
